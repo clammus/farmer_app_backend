@@ -1,3 +1,9 @@
 farmer_app.zip
 __pycache__/
 *.pyc
+farmer_app.zip
+__pycache__/
+*.pyc
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
